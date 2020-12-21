@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\Xiaomi\source\repos\Project3b\MyForm.h(79,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project3b\MyForm.h(80,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project3b\MyForm.h(111,73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project3b\MyForm.h(111,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project3b\MyForm.h(115,73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project3b\MyForm.h(115,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project3b\MyForm.h(119,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project3b\MyForm.h(119,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Xiaomi\source\repos\Project3b\MyForm.h(102,19): warning C4101: j2: неиспользованная локальная переменная
+C:\Users\Xiaomi\source\repos\Project3b\MyForm.h(102,11): warning C4101: j1: неиспользованная локальная переменная
+C:\Users\Xiaomi\source\repos\Project3b\MyForm.h(102,15): warning C4101: i2: неиспользованная локальная переменная
+C:\Users\Xiaomi\source\repos\Project3b\MyForm.h(102,7): warning C4101: i1: неиспользованная локальная переменная
+C:\Users\Xiaomi\source\repos\Project3b\MyForm.cpp(6,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project3b.vcxproj -> C:\Users\Xiaomi\source\repos\Project3b\Debug\Project3b.exe

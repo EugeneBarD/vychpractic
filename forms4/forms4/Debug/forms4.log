@@ -1,0 +1,31 @@
+﻿  MenuForm.cpp
+C:\Users\i5\source\repos\forms4\forms4\settings.h(147,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\i5\source\repos\forms4\forms4\settings.h(156,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\i5\source\repos\forms4\forms4\settings.h(168,25): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+C:\Users\i5\source\repos\forms4\forms4\settings.h(168,25): warning C4244:         with
+C:\Users\i5\source\repos\forms4\forms4\settings.h(168,25): warning C4244:         [
+C:\Users\i5\source\repos\forms4\forms4\settings.h(168,25): warning C4244:             _Elem=char
+C:\Users\i5\source\repos\forms4\forms4\settings.h(168,25): warning C4244:         ]
+C:\Users\i5\source\repos\forms4\forms4\settings.h(194,25): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+C:\Users\i5\source\repos\forms4\forms4\settings.h(194,25): warning C4244:         with
+C:\Users\i5\source\repos\forms4\forms4\settings.h(194,25): warning C4244:         [
+C:\Users\i5\source\repos\forms4\forms4\settings.h(194,25): warning C4244:             _Elem=char
+C:\Users\i5\source\repos\forms4\forms4\settings.h(194,25): warning C4244:         ]
+  level1.cpp
+C:\Users\i5\source\repos\forms4\forms4\level1.h(38,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\i5\source\repos\forms4\forms4\settings.h(147,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\i5\source\repos\forms4\forms4\settings.h(156,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\i5\source\repos\forms4\forms4\settings.h(168,25): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+C:\Users\i5\source\repos\forms4\forms4\settings.h(168,25): warning C4244:         with
+C:\Users\i5\source\repos\forms4\forms4\settings.h(168,25): warning C4244:         [
+C:\Users\i5\source\repos\forms4\forms4\settings.h(168,25): warning C4244:             _Elem=char
+C:\Users\i5\source\repos\forms4\forms4\settings.h(168,25): warning C4244:         ]
+C:\Users\i5\source\repos\forms4\forms4\settings.h(194,25): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+C:\Users\i5\source\repos\forms4\forms4\settings.h(194,25): warning C4244:         with
+C:\Users\i5\source\repos\forms4\forms4\settings.h(194,25): warning C4244:         [
+C:\Users\i5\source\repos\forms4\forms4\settings.h(194,25): warning C4244:             _Elem=char
+C:\Users\i5\source\repos\forms4\forms4\settings.h(194,25): warning C4244:         ]
+  Generating Code...
+C:\Users\i5\source\repos\forms4\forms4\level1.h(38,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  level1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  forms4.vcxproj -> C:\Users\i5\source\repos\forms4\Debug\forms4.exe

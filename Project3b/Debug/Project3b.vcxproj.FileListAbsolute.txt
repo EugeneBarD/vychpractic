@@ -1,0 +1,3 @@
+C:\Users\Xiaomi\source\repos\Project3b\Debug\Project3b.vcxprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\Project3b\Debug\Project3b.exe
+C:\Users\Xiaomi\source\repos\Project3b\Debug\Project3b.pdb

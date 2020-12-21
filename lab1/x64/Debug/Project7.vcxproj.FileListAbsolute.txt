@@ -1,0 +1,14 @@
+D:\Учеба\2 КУРС\вычка\распаковка\лаба 1 от Кати\лаб.суб.1\x64\Debug\Project7.vcxprojAssemblyReference.cache
+D:\Учеба\2 КУРС\вычка\распаковка\лаба 1 от Кати\лаб.суб.1\x64\Debug\Project7.MyForm.resources
+D:\Учеба\2 КУРС\вычка\распаковка\лаба 1 от Кати\лаб.суб.1\x64\Debug\Project7.vcxproj.GenerateResource.cache
+D:\Учеба\2 КУРС\вычка\распаковка\лаба 1 от Кати\лаб.суб.1\x64\Debug\Project7.exe
+D:\Учеба\2 КУРС\вычка\распаковка\лаба 1 от Кати\лаб.суб.1\x64\Debug\Project7.pdb
+D:\Учеба\2 КУРС\вычка\распаковка\лаба 1 от Кати\лаб.суб.1\x64\Debug\Project7.MyForm2.resources
+D:\УЧЕБА\2 КУРС\вычка\распаковка\лаба 1 от Кати\лаб.суб.1\x64\Debug\Project7.MyForm3.resources
+C:\Users\Xiaomi\Desktop\вычпрактика\lab1\x64\Debug\Project7.vcxprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\вычпрактика\lab1\x64\Debug\Project7.MyForm.resources
+C:\Users\Xiaomi\Desktop\вычпрактика\lab1\x64\Debug\Project7.MyForm2.resources
+C:\Users\Xiaomi\Desktop\вычпрактика\lab1\x64\Debug\Project7.MyForm3.resources
+C:\Users\Xiaomi\Desktop\вычпрактика\lab1\x64\Debug\Project7.vcxproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\вычпрактика\lab1\x64\Debug\Project7.exe
+C:\Users\Xiaomi\Desktop\вычпрактика\lab1\x64\Debug\Project7.pdb

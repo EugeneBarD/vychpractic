@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+C:\Users\Xiaomi\Desktop\колок\Project3\MyForm.h(70,74): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Xiaomi\Desktop\колок\Project3\MyForm.h(70,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Xiaomi\Desktop\колок\Project3\MyForm.h(71,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Xiaomi\Desktop\колок\Project3\MyForm.h(73,44): warning C4101: y0: неиспользованная локальная переменная
+C:\Users\Xiaomi\Desktop\колок\Project3\MyForm.h(74,18): warning C4101: y3: неиспользованная локальная переменная
+C:\Users\Xiaomi\Desktop\колок\Project3\MyForm.h(73,52): warning C4101: dt: неиспользованная локальная переменная
+C:\Users\Xiaomi\Desktop\колок\Project3\MyForm.h(73,40): warning C4101: x0: неиспользованная локальная переменная
+C:\Users\Xiaomi\Desktop\колок\Project3\MyForm.h(74,22): warning C4101: y4: неиспользованная локальная переменная
+C:\Users\Xiaomi\Desktop\колок\Project3\MyForm.cpp(7,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\Xiaomi\Desktop\колок\Project3\MyForm.h(168): warning C4700: использована неинициализированная локальная переменная "x4"
+C:\Users\Xiaomi\Desktop\колок\Project3\MyForm.h(168): warning C4700: использована неинициализированная локальная переменная "x3"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project3.vcxproj -> C:\Users\Xiaomi\Desktop\колок\Project3\Debug\Project3.exe

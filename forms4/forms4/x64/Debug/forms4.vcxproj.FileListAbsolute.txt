@@ -1,0 +1,10 @@
+C:\Users\Xiaomi\Desktop\forms4\forms4\x64\Debug\forms4.vcxprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\forms4\forms4\x64\Debug\forms4.level1.resources
+C:\Users\Xiaomi\Desktop\forms4\forms4\x64\Debug\forms4.MenuForm.resources
+C:\Users\Xiaomi\Desktop\forms4\forms4\x64\Debug\forms4.settings.resources
+C:\Users\Xiaomi\Desktop\forms4\forms4\x64\Debug\forms4.vcxproj.GenerateResource.cache
+C:\Users\Xiaomi\Desktop\вычпрактика\forms4\forms4\x64\Debug\forms4.vcxprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\вычпрактика\forms4\forms4\x64\Debug\forms4.level1.resources
+C:\Users\Xiaomi\Desktop\вычпрактика\forms4\forms4\x64\Debug\forms4.MenuForm.resources
+C:\Users\Xiaomi\Desktop\вычпрактика\forms4\forms4\x64\Debug\forms4.settings.resources
+C:\Users\Xiaomi\Desktop\вычпрактика\forms4\forms4\x64\Debug\forms4.vcxproj.GenerateResource.cache

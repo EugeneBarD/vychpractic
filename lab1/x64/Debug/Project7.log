@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Xiaomi\Desktop\вычпрактика\lab1\MyForm.h(213,35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Xiaomi\Desktop\вычпрактика\lab1\MyForm.h(239,35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Xiaomi\Desktop\вычпрактика\lab1\MyForm.h(300,35): warning C4101: e: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project7.vcxproj -> C:\Users\Xiaomi\Desktop\вычпрактика\lab1\x64\Debug\Project7.exe

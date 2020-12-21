@@ -1,0 +1,17 @@
+﻿Build started 14.12.2020 17:45:57.
+     1>Project "C:\Users\V-TUNE\Desktop\group10_Verbicki\SECOND\SECOND\SECOND.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib SECOND_Form.cpp
+         SECOND_Form.cpp
+     1>c:\users\v-tune\desktop\group10_verbicki\second\second\SECOND_Form.h(309): warning C4101: 'zeroCounterRows' : unreferenced local variable
+     1>c:\users\v-tune\desktop\group10_verbicki\second\second\SECOND_Form.h(309): warning C4101: 'zeroCounterColumns' : unreferenced local variable
+     1>c:\users\v-tune\desktop\group10_verbicki\second\second\SECOND_Form.h(301): warning C4101: 'k' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\V-TUNE\Desktop\group10_Verbicki\SECOND\Debug\SECOND.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\SECOND.SECOND_Form.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\V-TUNE\Desktop\group10_Verbicki\SECOND\Debug\SECOND.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\SECOND_Form.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         SECOND.vcxproj -> C:\Users\V-TUNE\Desktop\group10_Verbicki\SECOND\Debug\SECOND.exe
+     1>Done Building Project "C:\Users\V-TUNE\Desktop\group10_Verbicki\SECOND\SECOND\SECOND.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.24
